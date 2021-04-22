@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello!!! 😄
+
+> I am a backend software engineer with 4+ years of experience in  backend web development using JavaScript (Nodejs & TypeScript) and Python (Flask & Django). I have worked with companies such as Shipstation and ProJaro.
+
+> Presently working at Andela as a backend engineer at to build an asset management tool that tracks all assets within the organization.
+
+> Recently worked with Shipstation, where I was part of a team that helps integrated marketplaces like Overstock and Facebook and Carrier services system like Aramex (Formerly Fastway), DPD local, RoyalMail, New Zealand Post, and La Poste Colissimo.
+
+> I used technologies such as Javascript, TypeScript, Node.js, ES6, ES7, React, Python/Django, Django-Rest-Framework, SQL, Docker, Redis, Flask, PostgreSQL, MySQL, AWS Serverless (Lambda), AWS-Cognito, MongoDB, Mocha, Chai, Jest, Webpack, HTML, CSS
+
+> Currently studying Data engineering online at Dataquest.io and use other self-paced platforms like Pluralsight and Treehouse to learn.
 
 <!--
 **QUDUSKUNLE/QUDUSKUNLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
