@@ -2,7 +2,7 @@
 
 > I am a backend software engineer with 4+ years of experience in  backend web development using JavaScript (Nodejs & TypeScript) and Python (Flask & Django). I have worked with companies such as Shipstation and ProJaro.
 
-> Presently working at Andela as a backend engineer at to build an asset management tool that tracks all assets within the organization.
+> Presently working at Andela as a backend engineer that built an asset management tool that tracks all assets within the organization.
 
 > Recently worked with Shipstation, where I was part of a team that helps integrated marketplaces like Overstock and Facebook and Carrier services system like Aramex (Formerly Fastway), DPD local, RoyalMail, New Zealand Post, and La Poste Colissimo.
 
