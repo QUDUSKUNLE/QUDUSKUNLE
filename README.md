@@ -1,6 +1,6 @@
 #### Hello!!! 😄
 
-I am a backend software engineer with 6+ years of experience in  backend web development using JavaScript (Nodejs & TypeScript) and Python (Flask & Django). I have worked with companies such as *Shipstation (Remote, Austin Texas, USA)*, *ProJaro (On-site, Abuja, Nigeria)* and now *RealEyes Media (Remote, Colorado, USA).*
+I am a backend software engineer with 6+ years of experience in  backend web development using JavaScript (Nodejs & TypeScript), Python (Flask & Django) & Go. I have worked with companies such as *Shipstation (Remote, Austin Texas, USA)*, *ProJaro (On-site, Abuja, Nigeria)* and now *RealEyes Media (Remote, Colorado, USA).*
 
 
 Presently working at Andela as a backend engineer that built an asset management tool that tracks all assets within the organization.
@@ -13,18 +13,24 @@ Using technologies
     - `Node.js`
     - `ES6`
     - `ES7`
+ 
+- [x] `Go`
+
 - [X] `Bash Scripting`
 - [X] `Docker`
+
 - [x] `Python`
     - `Python/Django`
     - `Django-Rest-Framework`
     - `Flask`,
+   
 - [x] `Databases`
     - `PostgreSQL`
     - `MongoDB`
     - `MySQL`
     - `Redis`
     - `ElasticSearch`
+   
 - [X] `Cloud Services`
     - `AWS Serverless (Lambda)`
     - `AWS-Cognito`
@@ -32,10 +38,12 @@ Using technologies
     - `AWS SQS`
     - `EC2`
     - `GCP`
+  
 - [x] `Tests`
     - `Mocha`
     - `Chai`
     - `Jest`
+   
 - [X] `Continuous Integration`
     - `CircleCI`
     - `Github Actions`
