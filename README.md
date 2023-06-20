@@ -48,8 +48,6 @@ Using technologies
     - `CircleCI`
     - `Github Actions`
 
-> Currently studying Data engineering online at Dataquest.io and use other self-paced platforms like Pluralsight and Treehouse to learn.
-
 <!--
 **QUDUSKUNLE/QUDUSKUNLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
