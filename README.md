@@ -18,11 +18,6 @@ Using technologies
 
 - [X] `Bash Scripting`
 - [X] `Docker`
-
-- [x] `Python`
-    - `Python/Django`
-    - `Django-Rest-Framework`
-    - `Flask`,
    
 - [x] `Databases`
     - `PostgreSQL`
